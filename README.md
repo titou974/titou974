@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Titouan</h1>
 <h3 align="center">A full-stack developer who helps people to build their digital projects</h3>
+<img align="right" alt="TitouanIsCoding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE4aTN1bThyaXRncWxtd3pjemR2NzZjbGQ0ODM2am9nejBlajFyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5jVMMHz1or3W9zLq4/giphy-downsized-large.gif">
 
 - 🔭 I’m currently working on [Nestor App](https://github.com/titou974/valetappv1)
 
