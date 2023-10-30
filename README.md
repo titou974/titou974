@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nestor App](https://github.com/titou974/valetappv1)
 
-- 🌱 I’m currently learning **TypeScript and PHP Symphony**
+- 🌱 I’m currently learning **TypeScript and PHP Laravel**
 
 - 👨‍💻 All of my projects are available at [https://titouanhirsch.com/](https://titouanhirsch.com/)
 
